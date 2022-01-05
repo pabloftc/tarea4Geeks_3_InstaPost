@@ -1,0 +1,33 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    width: 500px;
+    margin: auto;
+  }
+  
+  i {
+    font-size: 1.7rem;
+    margin: 0 5px;
+  }
+  
+  .container {
+    border: 5px;
+    border-color: lightgray;
+  }
+  
+  .header-text {
+    display: inline-block;
+    margin-left: 10px;
+  }
+  
+  .post-icons {
+    margin: 10px 0;
+  }
+  
+  .fa-ellipsis-v {
+    margin-left: 75%;
+  }
+  
+  .fa-bookmark {
+    margin-left: 70%;
+  }
+  
